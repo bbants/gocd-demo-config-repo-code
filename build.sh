@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "update by bbants"
 echo "Let us pretend that this is building something ... and takes 20 seconds"
 
 count=0
